@@ -4,11 +4,9 @@ Just a very simple tool to validate Facebook user access token received from cli
 
 ## Install
 
-    npm install redis
+    npm install fbcat
 
 ## Usage
-
-Simple example, included as `examples/simple.js`:
 
 ```js
 var fbcat = require("fbcat");,
