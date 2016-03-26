@@ -4,7 +4,7 @@ var https = require('https');
  * Validate Facebook access token
  *
  * @param	{String} user_id, user_access_token, app_access_token
- * @return {bool}
+ * @return callback {bool}
  */
 module.exports = {
 	check: function(user_id, user_access_token, app_access_token, callback) {
