@@ -1,6 +1,6 @@
 {
 	"name": "fbcat",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "Facebook check access token tool",
 	"main": "index.js",
 	"scripts": {
@@ -14,7 +14,7 @@
 		"facebook",
 		"access token"
 	],
-	"author": "Nguyen Pham <123game.123game.123game@gmail.com> (http://123gamestudio.com/)",
+	"author": "nguyen.123game <123game.123game.123game@gmail.com> (http://123gamestudio.com/)",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/123game/fbcat/issues"
